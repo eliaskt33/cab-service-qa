@@ -1,4 +1,4 @@
-﻿package com.cabservice.tests;
+package com.cabservice.tests;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -11,3 +11,4 @@ public class SmokeTest {
         Assert.assertTrue(serviceName.contains("Cab"), "Service name validation failed!");
     }
 }
+

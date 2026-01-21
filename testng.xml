@@ -1,0 +1,8 @@
+﻿<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="CabServiceSuite">
+  <test name="SmokeTests">
+    <classes>
+      <class name="com.cabservice.tests.SmokeTest"/>
+    </classes>
+  </test>
+</suite>
